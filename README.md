@@ -28,4 +28,5 @@ brew install p7zip
 
 # beyonds
 
-[Recursively unzip archives](https://www.noodlesoft.com/manual/hazel/advanced-topics/processing-subfolders/)
+1. [Recursively unzip archives](https://www.noodlesoft.com/manual/hazel/advanced-topics/processing-subfolders/)
+2. For Dummies， download this file [download.hazelrules](./download.hazelrules), import using Hazel panel
